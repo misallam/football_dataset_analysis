@@ -6,6 +6,7 @@ This repository contains a project that dives into the FIFA player dataset, prov
 - Demo
 - Dataset Overview
 - Preprocessing
+- Advanced Statistics & Normalization
 
 # Installation
 
@@ -30,3 +31,7 @@ The dataset used in this project is from FIFA and contains detailed attributes o
 
 # Preprocessing
 Data is rarely perfect. In our preprocessing section, we handle missing values by filling them with appropriate replacements like mean values or mode values, ensuring our dataset is cleaner and more consistent.
+
+# Advanced Statistics & Normalization
+![Value Skwed Distribution](https://github.com/misallam/football_dataset_analysis/assets/130152172/c4ec1b93-b77f-4ae5-8e91-fe33544761b0)
+![Value Normal Distribution](https://github.com/misallam/football_dataset_analysis/assets/130152172/0eda0c64-1ef4-426f-b450-e6b2eb81a376)
